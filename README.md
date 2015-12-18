@@ -1,0 +1,2 @@
+# persianphonetics
+PHONETICS OF PERSIAN LANGUAGE [IPA]
